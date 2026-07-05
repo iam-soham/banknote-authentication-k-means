@@ -1,5 +1,5 @@
 
-# 💵 Banknote Authentication using K-Means Clustering
+# Banknote Authentication using K-Means Clustering
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange?style=for-the-badge&logo=scikit-learn)
@@ -21,7 +21,7 @@ The core idea: real and fake banknotes differ in their microscopic texture patte
 
 ---
 
-## 🧠 What is K-Means Clustering?
+## What is K-Means Clustering?
 
 K-Means is an **unsupervised learning** algorithm that:
 1. Randomly places K cluster centers in the data space
@@ -61,7 +61,7 @@ The dataset contains **1,372 banknote samples**, each described by 4 features ex
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 ### 1. Clone the repository
 ```bash
@@ -139,7 +139,7 @@ banknote-kmeans/
 
 ---
 
-## 🎓 Course Information
+## Course Information
 
 | Detail | Info |
 |--------|------|
